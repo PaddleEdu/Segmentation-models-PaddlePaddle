@@ -116,7 +116,7 @@ netmodel = modellib.MobileNetV2(n_class=2,
 
 提取码：8nno
 
-AIStudio链接（敬请期待）
+[AIStudio链接](https://aistudio.baidu.com/aistudio/projectdetail/1885915?channel=0&channelType=0&shared=1)
 
 ### EvalModel
 评估代码`EvalModel.py`放置在`/home/aistudio/PortraitNet/myTest`文件夹下，同样你需要修改`EvalModel.py`中的部分目录路径来评估自己的模型，本项目中采用`mobilenetv2_eg1800_with_two_auxiliary_losses.pdparams`模型文件评估
