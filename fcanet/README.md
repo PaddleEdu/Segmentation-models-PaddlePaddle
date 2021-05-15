@@ -35,7 +35,7 @@ The official PyTorch implementation of CVPR 2020 paper ["Interactive Image Segme
 
 提取码：2ira
 
-AIStudio链接（敬请期待）
+[AIStudio链接](https://aistudio.baidu.com/aistudio/projectdetail/1892923?channel=0&channelType=0&shared=1)
 
 ### 验证集测试
 ```
